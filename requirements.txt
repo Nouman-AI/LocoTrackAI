@@ -1,0 +1,12 @@
+numpy==1.24.4
+pandas==2.0.3
+scipy==1.10.1
+matplotlib==3.7.5
+opencv-python==4.10.0.84
+openpyxl==3.0.9
+PyYAML==6.0.2
+ultralytics==8.3.66
+boxmot==10.0.44
+lapx==0.5.10.post1
+filterpy==1.4.5
+tqdm==4.66.5
